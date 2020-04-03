@@ -1,3 +1,7 @@
+# WARNING
+
+## This plugin has been deprecated. We move the content of this plugin directly into our [Ueno Gatsby Starter](https://github.com/ueno-llc/ueno-gatsby-starter).
+
 # gatsby-plugin-ueno
 
 Adds opinionated features to Gatsby
